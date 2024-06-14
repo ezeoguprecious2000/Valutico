@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+body {
+font-family: "Manrope", sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.container{
+width:1512px;
+height:3776px;
+}
+.header{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px 103px;
+gap: 8px;
+width: 1510.85px;
+height: 135px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+}
+header{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 108px;
+width: 1304.85px;
+height: 75px; 
+}
+.home{
+display: inline-block;
+margin: 20px;
+color: #065666;}
+.solutions{
+display: inline-block;
+margin: 20px;}
+.yourwork{
+display: inline-block;
+margin: 20px;
+}
+a{
+text-decoration: none;
+color: black;
+font-size: 1.25em;
+font-weight: 700;
+line-height: 27.32px;
+text-align: left;}
+.request{
+display: flex;
+flex-direction: row;
+padding: 24px 40px;
+width: 278px;
+height: 75px;
+background: #6FC247;
+border-radius: 16px;
+border: none;
+text-align: center;
+color: white;
+font-style: normal;
+font-weight: 700;
+font-size: 1.25em;
+line-height: 27px;
+}
+
+i{
+display: inline-block;
+margin-left: 20px;
+}
+.firstheading{
+    width: 971px;
+height: 174px;
+font-style: normal;
+font-weight: 800;
+font-size: 4em;
+line-height: 87px;
+text-align: center;
+color: #373737;
+margin-left: 250px;
+}
+.content{
+width: 971px;
+height: 129px;
+margin-left: 250px;
+font-style: normal;
+font-weight: 500;
+font-size: 1.5em;
+line-height: 43px;
+text-align: center;
+color: #373737;
+}
+.buttons{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+margin-left: 450px;
+gap: 30px;
+width: 588px;
+height: 75px}
+.demo{
+ display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 24px 40px;
+width: 278px;
+height: 75px;
+background: #6FC247;
+border-radius: 16px;
+border: none;
+font-size: 1.25em;
+font-weight: 700;
+line-height: 27.32px;
+text-align: left;
+color: white;}
+.signup{
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 40px;
+gap: 16px;
+width: 278px;
+height: 75px;
+border: 1px solid #6FC247;
+border-radius: 16px;
+font-size: 20px;
+font-weight: 700;
+line-height: 27.32px;
+text-align: left;
+color:  #6FC247;}
+.body{
+width: 1300px;
+height: 637px;
+margin-left: 100px;
+margin-top: 25px;}
+.trusted{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+position: relative;}
+h3{
+font-weight: 800;
+font-size: 1.8em;
+text-align: center;}
+p.clients{
+position: absolute;
+top: 60px;
+text-align: center;
+font-size: 1.2em;
+font-weight: 500;
+line-height: 30px;
+width: 1062px;
+height: 60px;}
+.gridcontainer{
+width: 1282px;
+height: 399px;
+display: grid;
+grid-template-columns: auto auto auto auto;
+column-gap: 18px;
+row-gap: 18px;
+justify-content: center;
+align-content: center;
+margin-left: 120px;
+margin-top: 60px;
+margin-bottom: 70px;}
+
+.whyvalutico{ 
+    width: 1512px;
+    height: 400px;
+    position: relative;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;}
+    
+    
+    
+.why{
+font-size: 2.5em;
+font-weight: 800;
+line-height: 54.64px;
+text-align: center;
+ color: #FFFFFF;}
+ .award{
+font-size: 1.5em;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+color: #FFFFFF;
+}
+.qualities{
+width:1,00px;
+height:117px;
+padding-bottom: 10px;
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-left: 200px;
+position: absolute;
+bottom: 20px;
+color: #FFFFFF;}
+.secure{
+    margin-right: 120px;
+}
+.reliable{
+    margin-right: 120px;
+}
+h5{
+font-size: 1em;
+font-weight: 800;
+line-height: 32.78px;
+}
+
+.lastframe{
+margin-top: 80px;
+width:  1,510px;
+height: 1,186px;
+padding: 69px 103px 69px 103px;
+gap: 80px;}
+
+.lastheading{
+    
+}
+ h4{
+    font-size: 1.8em;
+    padding-top: 30px;
+font-weight: 800;
+line-height: 43.71px;
+text-align: center;}
+.allcl{
+    width: 1,304px;
+height:693px;
+gap: 85px;
+margin-top: 20px;
+position: relative;}
+
+.firstcolunms{
+
+    padding-top: 80px;
+
+}
+.scl{
+    margin-top: 80px;}
+    .tcl{
+        margin-top: 80px;
+    }
+    .personalize{
+
+        font-weight: 800;
+    }
+    .valuation{
+        font-weight: 800;
+
+    }
+    .fast{
+        font-weight: 800;
+
+    }
+.seccolunm{
+    position: absolute;
+   right: 30px;
+   top: 40px;
+              }
+ .manwriting{
+    width: 731px;
+height: 600px;
+}
+    .findthe{
+font-size: 1.5;
+font-weight: 500;
+line-height: 30px;
+text-align: center;}
+
+.lastdemo{
+    display: flex;
+    flex-direction: row;
+    padding: 24px 40px;
+    width: 278px;
+    height: 75px;
+    background: #6FC247;
+    border-radius: 16px;
+    border: none;
+    font-size: 1.25em;
+    font-weight: 700;
+    line-height: 27.32px;
+    text-align: left;
+    color: white;}
+
+    button.lastdemo{
+        margin-left: 500px;
+        margin-top: 80px;
+    }
+
+
+
+
+
+
+
+   
+    
+   
+
+
+   
